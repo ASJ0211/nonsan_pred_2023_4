@@ -79,6 +79,7 @@ auto ml을 통해 확인하였을때
 기존 row 데이터 (rmse: 960) > 전처리,파생변수 생성 후 데이터(rmse: 55)로 
 데이터 EDA를 통해 인사이트를 도출하고 만들어낸 파생변수가 유의미하게 작용하여 초기모델에 비해 향상됨을 확인.
 또한 shap 변수 중요도를 활용해 변수와 target의 관계를 시각화 하였음.
+![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/77d481a4-3ae4-43eb-88b9-15888260fa96)
 
 
 ### ⭐ Learnd Lessons
@@ -88,8 +89,10 @@ auto ml을 통해 확인하였을때
 아쉬웠던 점은 날씨데이터가 결측치나 이상치가 많아서 전처리 과정에서 많은 시간이 들어갔던 점이였음.
 
 ### 💎Expected Effects
-![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/a2ef0c46-02e0-4c6c-84cd-9e592584ac08)
-![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/42e3a6c5-4e53-4ead-a99f-cc434fd70a15)
+![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/24bbd844-ff3d-4706-ac39-a093fdce8179)
+
+![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/b21e16b0-fd61-4c37-af0b-87a1f89f8c23)
+
 
 
 
