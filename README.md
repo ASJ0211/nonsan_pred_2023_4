@@ -89,7 +89,8 @@ auto ml을 통해 확인하였을때
 
 ### 💎Expected Effects
 ![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/a2ef0c46-02e0-4c6c-84cd-9e592584ac08)
-![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/a02b3597-711d-43f5-9529-5638319e8fe1)
+![image](https://github.com/ASJ0211/nonsan_pred_DCC/assets/118821779/42e3a6c5-4e53-4ead-a99f-cc434fd70a15)
+
 
 
 
