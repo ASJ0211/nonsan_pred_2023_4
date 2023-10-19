@@ -3,6 +3,7 @@
 ## 머신러닝 및 딥러닝을 활용한 기상 데이터 기반 농작물 가격 예측 서비스 제안
 - 2023 데이터 청년 캠퍼스 팀 프로젝트
 - 기간: ‘23년 07월 ~ ‘23년 08월(1개월)
+- (2nd Prize) Summary on the data analysis process of 2023 KAPS(한국정책학회) Big Data Project
 - 성과: ____수상
 - Tools: python , R , hivesql
 - 활용 데이터
